@@ -1,6 +1,6 @@
-# Job List
+# Typescript List
 
-This project is a simple Job Listing which use mock job data and written in **React** and **TypeScript**.
+This project is a simple List of my favorite esports player with the use of mock data and written in **React** and **TypeScript**.
 
 ## Features
 
